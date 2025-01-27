@@ -1,3 +1,3 @@
 - Srividhu Potluri
-- Third year student @ UMBC
+- Third year computer science student @ UMBC
 - spotlur2@umbc.edu
